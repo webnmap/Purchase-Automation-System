@@ -1,2 +1,3 @@
 <?php echo "Hello Swapnil";
+echo "Hello Swapnil";
 ?>
